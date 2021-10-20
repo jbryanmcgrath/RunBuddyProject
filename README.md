@@ -12,5 +12,6 @@ A website that offers fitness training services.
 https://jbryanmcgrath.github.io/RunBuddyProject/
 
 ## Contribution
+
 Made with ❤️ by J. Bryan McGrath
 
